@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Python Flask Skeleton for Google App Engine
 
 A skeleton for building Python applications on Google App Engine with the
@@ -79,8 +80,13 @@ See [LICENSE](LICENSE)
 ## Author
 Logan Henriquez and Johan Euphrosine
 =======
+=======
+>>>>>>> c5fcaa942bf252fcb1ba5ada355377784ae84cf3
 python-gae-spike
 ================
 
 Python Google App Engine Spike
+<<<<<<< HEAD
 >>>>>>> Initial commit
+=======
+>>>>>>> c5fcaa942bf252fcb1ba5ada355377784ae84cf3
